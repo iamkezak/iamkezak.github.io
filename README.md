@@ -7,7 +7,7 @@ A responsive, single-page scientific/biotech portfolio designed for GitHub Pages
 ```text
 your-website/
 ├── index.html
-├── assets/
+├── images/
 │   ├── css/
 │   │   └── style.css
 │   ├── js/
